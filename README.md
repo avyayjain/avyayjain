@@ -8,7 +8,7 @@
 - ✍️ I’m currently learning more in Python Development & DSA   
 - 👯 I’m looking to collaborate  on any open source project on Python
 - 🚀 Looking for help with Python and Data Science and machine learning 
-- 🙋‍♂️ Ask me about C++,Python,android development
+- 🙋‍♂️ Ask me about C++,Python
 - 🏠 How to reach me  [<img align="center"  alt="Avyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - ⚡ Fun fact: I am a  Super Saiyyan 😜
 
